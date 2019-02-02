@@ -7,7 +7,7 @@ package com.nuguru.service;
 
 /**
  *
- * @author nuguru
+ * @author Sam
  */
 import org.springframework.validation.annotation.Validated;
 import com.nuguru.entities.Product;
